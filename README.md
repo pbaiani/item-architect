@@ -39,7 +39,7 @@ Restart Foundry VTT.
 
 **Draft Your Item:** Use the Drafting UI to add materials, runes, and special rule elements.
 
-**Forge**: Once satisfied with the configuration, click Forge Item to generate the finished actor-ready item in your world.
+**Forge**: Once satisfied with the configuration, click Forge Item to generate the finished actor-ready item in your world.  Items will appear in the 'Item Architect' folder.
 
 ☕ Support the Project
 If this tool saves you prep time, consider supporting the developer!
